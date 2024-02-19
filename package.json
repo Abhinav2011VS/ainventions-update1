@@ -1,0 +1,27 @@
+{
+  "name": "ainventions",
+  "version": "1.0.0",
+  "description": "![AInventions](favicon.png)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav2011VS/AInventions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhinav2011VS/AInventions/issues"
+  },
+  "homepage": "https://www.ainventions.com",
+  "dependencies": {
+    "octicons": "^5.0.1",
+    "primer-core": "^6.2.0",
+    "primer-marketing": "^5.2.0"
+  }
+}
